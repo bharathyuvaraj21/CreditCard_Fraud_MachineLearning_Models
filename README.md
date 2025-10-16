@@ -69,4 +69,3 @@ This project focuses on detecting fraudulent credit card transactions using vari
 
 ---
 
-This README content clearly outlines your credit card fraud detection project independently, providing prospective users or collaborators an insightful and organized understanding of your work.
